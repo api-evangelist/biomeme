@@ -1,23 +1,79 @@
 aid: biomeme
+
 name: Biomeme
-description: 'Biomeme is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+
+description: 'Biomeme provides mobile CBRN biodefense and point‑of‑care molecular diagnostic solutions. Their platform enables rapid testing for infectious diseases, antimicrobial resistance, and health monitoring across military, public health, and research sectors. Biomeme’s products include handheld PCR devices, assay kits, and a cloud‑based data platform for real‑time results and analytics.'
+
 url: https://raw.githubusercontent.com/api-evangelist/biomeme/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:secondary-market
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-28 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-28'
+
 modified: '2026-09-28'
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Developer portal renders HTML only, no machine‑readable OpenAPI or other contract found.
+  evidence:
+    - url: https://portal.biomeme.com/
+      status: 200
+  checked: '2026-09-28'
+
 tags:
 - Company
-apis: []
+- Diagnostics
+- Biotechnology
+- Healthcare
+- MolecularTesting
+- CBRN
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/biomeme-llms.txt
+- type: SecurityTxt
+  url: well-known/biomeme-security.txt
+- type: WellKnown
+  url: well-known/biomeme-well-known.yml
+- type: Hosts
+  url: hosts/biomeme-hosts.yml
+- type: Vendors
+  url: vendors/biomeme-vendors.yml
+- type: Support
+  url: https://help.biomeme.com/
+- type: PrivacyPolicy
+  url: https://biomeme.com/privacy
+- type: Leadership
+  url: https://biomeme.com/about/leadership
+- type: DeveloperPortal
+  url: https://portal.biomeme.com/
+- type: DomainSecurity
+  url: security/biomeme-domain-security.yml
 - type: Website
-  url: https://forgeglobal.com/biomeme_stock/
+  url: https://biomeme.com/
+- type: Documentation
+  url: https://help.biomeme.com
+- type: Blog
+  url: https://blog.biomeme.com
+
+apis: []
+x-enrichment:
+  date: '2026-09-28'
+  status: enriched
+  artifacts_added: 8
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

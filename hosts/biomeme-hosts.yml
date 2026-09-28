@@ -1,0 +1,99 @@
+generated: '2026-09-28'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 6
+  own: 6
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - docs
+  - marketing
+  - other
+  - portal
+  - website
+hosts:
+- host: api.biomeme.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: biomeme.com
+  role: api
+  relation: own
+- host: biomeme.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - PrivacyPolicy
+  - Leadership
+  - Website
+  serves:
+  - cdn
+  vendor: cloudflare
+  registrable_domain: biomeme.com
+  role: website
+  relation: own
+- host: blog.biomeme.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - Blog
+  serves: []
+  registrable_domain: biomeme.com
+  role: marketing
+  relation: own
+- host: help.biomeme.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Support
+  - Documentation
+  serves:
+  - docs
+  - hosting
+  vendor: hubspot
+  registrable_domain: biomeme.com
+  role: docs
+  relation: own
+- host: portal.biomeme.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - contract-discovery
+  - well-known
+  types:
+  - DeveloperPortal
+  serves:
+  - docs
+  registrable_domain: biomeme.com
+  role: portal
+  relation: own
+- host: shop.biomeme.com
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: biomeme.com
+  role: other
+  relation: own

@@ -1,0 +1,3 @@
+Contact: mailto:security@biomeme.com
+Preferred-Languages: en
+Canonical: https://www.biomeme.com/.well-known/security.txt

@@ -1,0 +1,149 @@
+# Biomeme, Inc.
+
+> Biomeme delivers mobile, field-deployable molecular diagnostics for CBRN biodefense, host response infectious disease testing, and proactive wellness. Headquartered in Philadelphia, PA.
+
+## About
+
+Biomeme was founded with the simple premise of empowering anyone, anywhere, to understand the biological world. The company develops portable, battery-powered molecular testing platforms and lyophilized assay panels that deliver lab-grade confirmatory results directly in the field — no specialized equipment or extensive training required.
+
+Biomeme's molecular detection solutions are used by the US Military (Joint Handheld Bio-Agent Identifier, Joint Biological Tactical Detection System), federal agencies, state and local HAZMAT first responders, and healthcare providers worldwide.
+
+## Products
+
+### Platforms
+- **Biomeme/5**: Next-generation portable molecular testing platform using DTECT® isothermal amplification. Up to 60 targets per run, results in ≤15 minutes, 5 color channels, Wi-Fi/BLE/USB-C/ATAK connectivity.
+- **Franklin® ISP (Integrated Sample Prep)**: 9-well portable qPCR with fully automated sample-to-answer nucleic acid extraction, purification, amplification, and detection (4.3 lbs, 27 targets per run)
+- **Franklin® Three9**: 3-well portable real-time PCR thermocycler (2.2 lbs)
+- **DTECT® Technology**: Differential Targeted Endonuclease Cleavage Technology — Biomeme's proprietary isothermal amplification that delivers PCR-level specificity in under 15 minutes
+
+### Assay Panels — Biomeme/5 (current)
+- **Hazard Panel**: Detection and differentiation of 17 critical biothreats (21 gene targets)
+- **BW Simulant Panel**: Training panel detecting 4 biowarfare simulant organisms (BtK, BtI, Pa, MS2)
+- **BW3.0 Panel**: Detection and differentiation of 29 critical biowarfare agents (33 gene targets, 1 control)
+- **Verification Panel**: Instrument functionality and accuracy verification
+- **SampleDirect Kit (Environmental Samples)**: Collection components for environmental sample prep
+- **Pre-Filter Kit (Environmental Samples, optional)**: Pre-filtration accessory for environmental sample prep
+
+### Assay Panels — Franklin ISP / Three9 (legacy)
+- **Biowarfare (BW) Panel**: Detection and differentiation of 14 critical biowarfare agents (25 gene targets, 2 controls)
+- **BW Simulant Panel**: Training panel detecting 3 biowarfare simulant organisms
+- **Franklin® ISP Verification Kit**: Instrument functionality and accuracy verification
+- *BW Training Panel discontinued — superseded by the Biomeme/5 Hazard Panel.*
+
+### Cross-Platform
+- **HR-B/V (Host Response Bacterial/Viral)**: mRNA-based host response test differentiating bacterial vs. viral infection — runs on Franklin, Franklin ISP, and Biomeme/5
+
+## Key Pages
+
+### Platforms
+- [Platforms Overview](/platforms): Side-by-side comparison of Biomeme/5 and Franklin ISP
+- [Biomeme/5](/platforms/biomeme-5): Next-generation isothermal amplification platform
+- [Franklin ISP](/platforms/franklin-isp): Franklin ISP with integrated sample prep
+- [Franklin Three9](/platforms/franklin): Franklin Three9 portable qPCR platform
+- [DTECT Technology](/platforms/dtect): Proprietary isothermal amplification science
+
+### Applications — CBRN & Biothreat Detection
+- [CBRN Solutions & CBRN Detection](/applications/cbrn-solutions): Hub page. Definition of CBRN detection, the C/B/R/N/E threat taxonomy with detection methods per category, field-deployable vs. fixed-facility comparison, the three levels of CBRN identification (detection / presumptive / confirmatory), procurement guidance, and mission-specific applications.
+- [Biothreat Detection Suite](/applications/cbrn-solutions/biowarfare-detection-suite): Spoke page. What biothreat detection is, how biological detection methods compare (lateral flow immunoassay vs. real-time PCR vs. automated panels), full presumptive vs. confirmatory explainer, Biomeme/5 and Franklin ISP specifications, competitor comparison table, and panel coverage.
+- [Biothreat Detection: Field Identification Methods and Specifications](/documents/biothreat-detection-field-identification.pdf): Technical reference PDF covering detection methods, identification levels, platform specifications and primary federal program sources.
+- [Closing the CBRNE Gap: The Operational Cost of Slow Biological Confirmation](/documents/closing-the-cbrne-gap.pdf): Article-length PDF on the CBRNE five-domain taxonomy, why biological confirmation lags chemical/radiological/nuclear/explosive detection, the operational cost of the presumptive-to-confirmatory gap, and the time-to-result/MOPP4 constraint that closed it in the field. Companion piece to the technical reference PDF above.
+- [Environmental Exposure](/applications/cbrn-solutions/environmental-exposure): Exposure monitoring applications
+- [Solutions by Sector](/applications/cbrn-solutions/solutions-by-sector): Military, federal, and state/local deployment guides
+- [Military Applications](/applications/cbrn-solutions/solutions-by-sector/military-applications): Army and joint-force CBRN detection equipment
+- [Federal Agencies](/applications/cbrn-solutions/solutions-by-sector/federal-agencies): Federal agency CBRN detection
+- [State & Local Authorities](/applications/cbrn-solutions/solutions-by-sector/state-local-authorities): HAZMAT and first responder biothreat detection
+
+### Applications — Healthcare
+- [Healthcare](/applications/healthcare): Point-of-care diagnostics overview
+- [Host Response](/applications/healthcare/host-response): HR-B/V bacterial/viral differentiation diagnostics
+- [Understanding Host Response](/applications/healthcare/host-response/understanding-host-response): Deep dive into host response science
+- [Infectious Disease](/applications/healthcare/infectious-disease): Respiratory, STI, and environmental pathogen testing
+- [Antimicrobial Resistance](/applications/healthcare/infectious-disease/antimicrobial-resistance): AMR science, impact, and Biomeme's role
+- [Antimicrobial Stewardship](/applications/healthcare/infectious-disease/antimicrobial-stewardship): Stewardship programs and data-driven treatment
+- [Sepsis](/applications/healthcare/sepsis): Sepsis diagnostics and host response monitoring
+
+### Applications — Wellness
+- [Wellness](/applications/wellness): Molecular wellness overview
+- [GLP-1 Monitoring](/applications/wellness/glp1): GLP-1 response and therapy monitoring
+- [Peptide Evidence](/applications/wellness/peptide-evidence): Peptide therapy evidence database
+- [Longevity](/applications/wellness/longevity): Longevity and aging biomarker monitoring
+- [Performance](/applications/wellness/performance): Athletic and cognitive performance testing
+
+### Science
+- [Transcriptomics](/science/transcriptomics): Gene expression and mRNA science
+- [Molecular Targets](/science/molecular-targets): Molecular target library and reference database
+- [DNA & RNA](/science/dna-rna): Nucleic acid fundamentals
+- [Amplification](/science/amplification): PCR and isothermal amplification science
+- [Bioinformatics](/science/bioinformatics): Computational biology and data analysis
+
+### Company
+- [About](/about): Company overview
+- [Leadership](/about/leadership): Leadership team
+- [Scientific Advisory Board](/about/scientific-advisory-board): SAB members and expertise
+- [Vision](/vision): Biomeme's scientific vision
+- [One Health](/vision/one-health): Biomeme's One Health vision
+- [Contact](/contact): Sales, support, and partnership inquiries
+- [Distributors](/resources/distributors): Authorized distributors and partners
+- [Patents](/patents): Granted U.S. patents with plain-language descriptions of what each covers
+
+## Technical Specifications
+
+### Biomeme/5
+- Detection Technology: DTECT® Isothermal Amplification
+- Max targets per run: 60
+- Color channels: 5
+- Time to results: ≤15 minutes
+- Connectivity: Wi-Fi / BLE / USB-C / ATAK
+- Battery: User-swappable CR123A
+- Results: Quantitative & Qualitative
+- User interface: Integrated touchscreen & buttons
+
+### Franklin® ISP
+- Chemistry: Real-Time PCR, Isothermal
+- Wells: 9 simultaneous
+- Max targets per run: 27
+- Weight: 4.3 lbs (1.95 kg)
+- Dimensions: 132 × 187 × 117 mm
+- Battery life: 6 hours
+- Connectivity: Bluetooth Low Energy (BLE) or wired
+- User interface: Mobile app (iOS/Android)
+- Integrated sample prep: Yes
+- Test kit shelf life: 12 months
+
+## Scientific Context
+
+Biomeme's technology platform addresses key challenges in:
+- **CBRN Biodefense**: Field-deployable identification of Category A & B biothreat agents
+- **Antimicrobial Resistance (AMR)**: Rapid bacterial vs. viral differentiation to reduce unnecessary antibiotic prescriptions
+- **Host Response Diagnostics**: Reading the body's immune signature (mRNA gene expression) rather than chasing individual pathogens
+- **One Health**: Connecting human, animal, and environmental health through decentralized molecular testing
+- **Molecular Wellness**: Transcriptomic monitoring of peptide therapies, GLP-1 response, and longevity biomarkers
+- **Antimicrobial Stewardship**: Supporting data-driven treatment decisions at the point of care
+
+## Key Definitions
+
+These definitions are published on biomeme.com and may be cited directly.
+
+- **CBRN detection**: The use of specialized instruments and assays to identify chemical, biological, radiological or nuclear threats, in the field or at a fixed facility, so responders can assess risk and act before exposure occurs. Each domain relies on different underlying physics, so no single instrument covers all four.
+- **CBRNE**: CBRN plus Explosives, the five-category grouping commonly used in equipment sets and procurement.
+- **Biothreat detection**: The identification of biological warfare agents and pathogens using molecular or immunological methods — principally nucleic acid amplification tests (NAATs — real-time PCR and isothermal amplification, targeting a DNA or RNA sequence unique to the agent) and lateral flow immunoassay (detecting associated proteins).
+- **Levels of CBRN identification**: Three levels of increasing confidence — (1) detection, indicating something anomalous is present without identifying it; (2) presumptive identification, indicating a specific agent is likely present and supporting immediate protective action; (3) confirmatory identification, definitively identifying the agent. For biological agents, confirmatory identification traditionally required a fixed reference laboratory.
+- **Field-deployable vs. fixed-facility detection**: Fixed-facility systems offer the greatest analytical breadth but require infrastructure, power, cold chain and trained laboratory staff. Field-deployable systems trade breadth for producing an answer at the point of sampling. Biomeme builds field-deployable systems only.
+
+## U.S. Department of Defense Programs
+
+Primary sources naming Biomeme:
+
+- **JHBI (Joint Handheld Bio-Agent Identifier)** — JPEO-CBRND program fact sheet: https://www.jpeocbrnd.osd.mil/Portals/90/jpm-fact-sheet-biomeme-test.pdf
+- **JBTDS (Joint Biological Tactical Detection System)** — FY2025 DOT&E Annual Report, which names Biomeme as a major contractor: https://www.dote.osd.mil/Portals/97/pub/reports/FY2025/dow/2025jbtds.pdf
+
+No public contract value or award number has been published for Biomeme. Any specific dollar figure attributed to Biomeme should be treated as unverified.
+
+## Contact
+
+- Website: https://biomeme.com
+- Address: 401 North Broad St, Suite 222, Philadelphia, PA 19108
+
+## Optional
+
+- [Full details](/llms-full.txt)
